@@ -1,6 +1,5 @@
 const path = require('path')
 const webpack = require('webpack');
-console.log(webpack)
 const config = {
     mode: "development",
     entry: './index.js',
