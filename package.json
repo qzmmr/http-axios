@@ -1,8 +1,8 @@
 {
-  "name": "http-axios",
-  "version": "1.0.2",
+  "name": "https-axios",
+  "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/http.js",
   "scripts": {
     "dev": "webpack-dev-server --config build/webpack.config.dev.js --hot --env",
     "build": "webpack --config build/webpack.config.prod.js",
