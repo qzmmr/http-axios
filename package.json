@@ -1,6 +1,6 @@
 {
-  "name": "https-axios",
-  "version": "0.1.0",
+  "name": "http-axios",
+  "version": "1.0.3",
   "description": "",
   "main": "src/http.js",
   "scripts": {

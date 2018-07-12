@@ -8,7 +8,6 @@ promise.polyfill();
 
 const http = {
     POST: (url, data, context, action, header = defaultHeader) => {
-        console.log(header)
         axios({
             method: 'post',
             url: url,
