@@ -1,1 +1,1 @@
-module.exports = require('./src/http')
+module.exports = require('./lib/http')
